@@ -1,4 +1,4 @@
-**Os projetos desse repositório em sua maioria forem utilizados para aprender algum conceito, pra além da utilidade**
+**Os projetos desse repositório em sua maioria foram utilizados para aprender algum conceito, pra além da utilidade**
 
 *analise-wpp*
 Analisa os dados de uma conversa de whatsapp e monta um gráfico de pessoas por número de mensagens enviadas. Criado com 
