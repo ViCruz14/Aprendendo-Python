@@ -13,6 +13,9 @@ Bot criado com scrapy pra raspar todos os emails de uma página de ongs ambienta
 *frô*
 Programinha criado pra aprender turtle. Desenha flores
 
+*pokemon*
+Primeira vez que consumi uma api
+
 *roteador*
 bot que roteia mensagens para um grupo ou para um contato. Criado com a ideia de permitir atendimentos em anomimato. A configuração dele também é feita dentro do próprio whatsapp
 
